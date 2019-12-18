@@ -5,6 +5,7 @@ import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { PokemonDetailsComponent } from './pokemon-details/pokemon-details.component';
 import { SettingsComponent } from './settings/settings.component';
+//test
 
 const routes: Routes = [
   {
